@@ -97,3 +97,5 @@ the new_post model in this case will be converted to a python
 dictorary 
 
 the old way was to use dict() method but this is no longer supported 
+the dict method is not useful if the fields are nested 
+
